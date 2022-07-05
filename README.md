@@ -4,6 +4,8 @@ Math exercises;
 
 * [Geometry](geometry/README.md)
 
+* [Rational numbers](rational/README.md)
+
 
 ## Mathematical expressions
 
