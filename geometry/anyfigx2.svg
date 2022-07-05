@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="577.94574"
+   height="300.3511"
+   viewBox="0 0 152.91481 79.467896"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="anyfigx2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="800px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.1366667"
+     inkscape:cx="313.19648"
+     inkscape:cy="146.48094"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.053683,-40.531581)">
+    <g
+       id="g1133"
+       transform="matrix(0.50001694,0,0,0.50003691,11.643847,50.273349)"
+       style="stroke-width:1.9999">
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:1.9999;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path865"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="133.22562"
+         sodipodi:cy="122.4226"
+         sodipodi:r1="155.13193"
+         sodipodi:r2="77.565964"
+         sodipodi:arg1="0.75719809"
+         sodipodi:arg2="1.3855166"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 245.96983,228.98083 147.51493,198.661 66.722595,262.57703 65.134228,159.57151 -20.619727,102.48457 76.853507,69.143485 104.64699,-30.054208 166.47713,52.345386 269.4084,48.124783 210.14829,132.39161 Z"
+         transform="matrix(0.26458334,0,0,0.26458334,28.867387,32.468949)"
+         inkscape:transform-center-x="2.3366095"
+         inkscape:transform-center-y="-1.6301479" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.26457;stroke-miterlimit:4;stroke-dasharray:1.58741, 1.58741;stroke-dashoffset:0;stop-color:#000000"
+         id="rect969"
+         width="77.080482"
+         height="77.562531"
+         x="23.36319"
+         y="24.371593" />
+    </g>
+    <g
+       id="g1139"
+       transform="matrix(1.0247484,0,0,1.0191182,72.97267,15.838749)"
+       style="stroke-width:0.978548">
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:0.978548;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path1135"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="133.22562"
+         sodipodi:cy="122.4226"
+         sodipodi:r1="155.13193"
+         sodipodi:r2="77.565964"
+         sodipodi:arg1="0.75719809"
+         sodipodi:arg2="1.3855166"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 245.96983,228.98083 147.51493,198.661 66.722595,262.57703 65.134228,159.57151 -20.619727,102.48457 76.853507,69.143485 104.64699,-30.054208 166.47713,52.345386 269.4084,48.124783 210.14829,132.39161 Z"
+         transform="matrix(0.26458334,0,0,0.26458334,28.867387,32.468949)"
+         inkscape:transform-center-x="2.3366095"
+         inkscape:transform-center-y="-1.6301479" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.129454;stroke-miterlimit:4;stroke-dasharray:0.776715, 0.776715;stroke-dashoffset:0;stop-color:#000000"
+         id="rect1137"
+         width="77.080482"
+         height="77.562531"
+         x="23.36319"
+         y="24.371593" />
+    </g>
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>800x600</inkscape:name>
+    <inkscape:date>2022-07-05</inkscape:date>
+  </inkscape:templateinfo>
+</svg>
