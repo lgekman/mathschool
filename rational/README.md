@@ -1,5 +1,5 @@
-<script>MathJax={chtml:{displayAlign:'left',displayIndent:"2em"}}</script>
 # Rational numbers
+<script>MathJax={chtml:{displayAlign:'left',displayIndent:"2em"}}</script>
 
 A [rational number](https://en.wikipedia.org/wiki/Rational_number)
 is a number that can be expressed as the fraction of two integers;
