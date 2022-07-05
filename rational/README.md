@@ -1,5 +1,4 @@
 # Rational numbers
-<script>MathJax={chtml:{displayAlign:'left',displayIndent:"2em"}}</script>
 
 A [rational number](https://en.wikipedia.org/wiki/Rational_number)
 is a number that can be expressed as the fraction of two integers;
@@ -8,6 +7,8 @@ is a number that can be expressed as the fraction of two integers;
 
 
 ## Reduce
+
+<script>MathJax={chtml:{displayAlign:'left',displayIndent:"2em"}}</script>
 
 Rational expressions should be reduced to the lowest terms. For
 example you shall write $\frac{3}{4}$ rather than $\frac{9}{12}$.
