@@ -33,5 +33,23 @@ $$2, 3, 5, 7, 11, 13, 17, 19, 23, \cdots $$
 There are [tools](https://www.calculatorsoup.com/calculators/math/prime-factors.php)
 that can help factorizing (try 210 and 924).
 
+Reduce (use a tool for factorizing);
+
+1. $\frac{60}{132}$
+2. $\frac{203}{483}$
+3. $\frac{66}{231}$
+
+
+<details><summary>(answers)</summary>
+
+1. $\frac{5}{11}$
+2. $\frac{29}{69}$
+3. $\frac{2}{7}$
+
+</details>
+
+
 <!-- <script>MathJax={chtml:{displayAlign:'left',displayIndent:"2em"}}</script> -->
+
+
 
