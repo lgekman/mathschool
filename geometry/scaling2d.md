@@ -45,7 +45,7 @@ Formula;
 
 $C = N \cdot c$
 
-$A = N \cdot X \cdot a$
+$A = N \cdot N \cdot a$
 
 Or;
 
