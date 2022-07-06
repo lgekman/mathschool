@@ -2,16 +2,15 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="623.284"
-   height="187.76112"
-   viewBox="0 0 164.91056 49.678464"
+   width="637.53033"
+   height="220"
+   viewBox="0 0 168.6799 58.208333"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="rectanglex2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -27,13 +26,13 @@
      units="px"
      width="800px"
      inkscape:snap-global="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
      inkscape:zoom="1.7184441"
-     inkscape:cx="267.10209"
-     inkscape:cy="49.754311"
+     inkscape:cx="363.11917"
+     inkscape:cy="63.13851"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
      inkscape:window-x="1920"
@@ -131,7 +130,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-8.0639866,-4.1702487)">
+     transform="translate(-5.4181532,-0.61775586)">
     <rect
        style="fill:#d8d8d8;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
        id="rect39"
@@ -139,37 +138,6 @@
        height="24.838968"
        x="26.900379"
        y="16.86462" />
-    <g
-       id="g1226">
-      <g
-         id="g1218"
-         transform="translate(9.0174351)">
-        <use
-           x="0"
-           y="0"
-           xlink:href="#rect39"
-           id="use1046"
-           transform="translate(96.400511,-12.56208)"
-           width="100%"
-           height="100%" />
-        <use
-           x="0"
-           y="0"
-           xlink:href="#use1046"
-           id="use1048"
-           transform="translate(0,24.574913)"
-           width="100%"
-           height="100%" />
-      </g>
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1218"
-         id="use1220"
-         transform="translate(-40.571296)"
-         width="100%"
-         height="100%" />
-    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529167;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)"
        d="M 23.10297,17.028001 V 41.584119"
@@ -200,5 +168,20 @@
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529167;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stop-color:#000000;stop-opacity:1"
        d="m 26.969639,12.717597 h 40.35851"
        id="path10537" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264582;stroke-opacity:1"
+       id="rect971"
+       width="79.11042"
+       height="52.652084"
+       x="92.209518"
+       y="3.3958802" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.79375;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 131.76473,3.5293797 V 56.131263"
+       id="path1006" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.79375;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 92.27834,29.721922 h 79.1425"
+       id="path1121" />
   </g>
 </svg>

@@ -1,10 +1,10 @@
-# mathschool
+# mathschool - Roliga och lärorika mattetal
 
-Math exercises;
+Områden;
 
-* [Geometry](geometry/README.md)
+* [Geometri](geometry/README.md)
 
-* [Rational numbers](rational/README.md)
+* [Rationella tal](rational/README.md)
 
 
 ## Mathematical expressions
