@@ -9,7 +9,7 @@ för att mäta avstånd.
 I triangulering används *trigonometri* (sin, cos) men man kan komma en
 bra bit med likformighet.
 
-<img src="eiffeltower.svg" width="60%" />
+<img src="eiffeltower.svg" width="45%" />
 
 * Hur högt är Eiffeltornet?
 
@@ -27,3 +27,5 @@ f.kr. Alltså innan den kristna kyrkan bestämt att jorden var platt.
 
 Inom lantmäteriet användes ett instrument för att mäta vinklar med
 stor precision som kallas [teodolit](https://en.wikipedia.org/wiki/Theodolite).
+Numera finns modernare instrument.
+
