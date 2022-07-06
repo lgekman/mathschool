@@ -57,6 +57,7 @@ sedan punkterna. Observera att det sällan är raka linjer mellan punkterna.
 
 <details><summary>(gnuplot)</summary>
 
+```
 gnuplot <<EOF
 set terminal svg dynamic
 set out 'plot1.svg'
@@ -91,6 +92,7 @@ set xrange [0:4]
 unset x2tics
 plot x*x
 EOF
+```
 
 </details>
 
