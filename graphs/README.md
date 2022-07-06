@@ -17,7 +17,7 @@ axlarna kallas *origo*. Man kan lägga till en z-axel för att få ett
 som en *funktion* av $x$, den allmäna formen är då
 $ y = f(x) $. Funktionerna kan vara mycket komplicerade.
 
-Exemplel; $ y = 1 + x \sin{x^2} $
+Exemplel; $ y = 1 + x \sin x^2 $
 
 <img src="plot1.svg" width="40%" />
 
@@ -46,6 +46,13 @@ sedan punkterna. Observera att det sällan är raka linjer mellan punkterna.
 <img src="sqarea.svg" width="20%" />
 
 </details>
+
+
+## Räta linjens ekvation
+
+
+
+
 
 <details><summary>(gnuplot)</summary>
 
