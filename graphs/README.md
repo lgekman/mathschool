@@ -17,7 +17,8 @@ axlarna kallas *origo*. Man kan lägga till en z-axel för att få ett
 som en *funktion* av $x$, den allmäna formen är då
 $ y = f(x) $. Funktionerna kan vara mycket komplicerade.
 
-Exemplel; $ y = 1 + x \sin x^2 $
+Exempel;
+$ y = 1 + x \sin x^2 $
 
 <img src="plot1.svg" width="40%" />
 
