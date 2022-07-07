@@ -54,7 +54,7 @@ sedan punkterna. Observera att det sällan är raka linjer mellan punkterna.
 
 
 
-
+<hr />
 <details><summary>(gnuplot)</summary>
 
 ```
