@@ -1,7 +1,9 @@
 # mathschool - Roliga och lärorika mattetal
 
 Mer än ren matteträning försöker exemplen fånga intresset genom att
-visa intressanta tillämpningar. Därför, *klicka på länkarna!*
+visa intressanta tillämpningar. Därför, *klicka på länkarna*, tex
+hur [Eratosthenes](https://sv.wikipedia.org/wiki/Eratosthenes) mätte
+jordens omkrets på 200-talet f.kr!
 
 Områden;
 

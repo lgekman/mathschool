@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="496.62985"
+   height="446.12106"
+   viewBox="0 0 131.39998 118.0362"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="sphere.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="800px"
+     fit-margin-left="10"
+     fit-margin-top="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:zoom="1.1366667"
+     inkscape:cx="234.89736"
+     inkscape:cy="209.82405"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop6455" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop6457" />
+    </linearGradient>
+    <radialGradient
+       cx="171.2081"
+       cy="196.85463"
+       r="200"
+       fx="171.2081"
+       fy="196.85463"
+       id="radialGradient"
+       xlink:href="#linearGradient"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.27527727,0.21066893,-0.21550789,0.28160028,80.357941,-26.689895)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.680729,-23.696112)">
+    <circle
+       cx="105.91093"
+       cy="79.258614"
+       r="52.916668"
+       style="fill:url(#radialGradient);stroke-width:0.264583"
+       id="circle880" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#ababab;fill-opacity:1;stroke-width:0.264583"
+       x="46.070248"
+       y="138.42088"
+       id="text6987"><tspan
+         sodipodi:role="line"
+         id="tspan6985"
+         style="font-size:2.82222px;fill:#ababab;fill-opacity:1;stroke-width:0.264583"
+         x="46.070248"
+         y="138.42088">https://upload.wikimedia.org/wikipedia/commons/7/7e/Sphere_-_monochrome_simple.svg</tspan></text>
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>800x600</inkscape:name>
+    <inkscape:date>2022-07-05</inkscape:date>
+  </inkscape:templateinfo>
+</svg>
