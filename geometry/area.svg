@@ -13,7 +13,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -28,7 +30,7 @@
      width="800px"
      inkscape:snap-global="true"
      inkscape:zoom="1.1366667"
-     inkscape:cx="366.86217"
+     inkscape:cx="366.86216"
      inkscape:cy="259.97067"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
@@ -484,4 +486,23 @@
     <inkscape:name>800x600</inkscape:name>
     <inkscape:date>2022-07-05</inkscape:date>
   </inkscape:templateinfo>
+  <metadata
+     id="metadata946">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
