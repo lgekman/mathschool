@@ -73,7 +73,11 @@ $m$ får vi tex;
 Man kan se att $m$ anger var linjen skär y-axeln.
 $m$ kallas *konstantterm*.
 
+**Uppgift**: Vad blir det för linje om $ k = 0 $ ?
+
 **Uppgift**: Ange formeln för linjerna på formen $y = kx + m$;
+
+För $ k = 0 $ blir det en linje parallel med X-axeln.
 
 <img src="lines3.svg" width="30%" />
 
@@ -88,7 +92,7 @@ $$ k = \frac{\Delta y}{\Delta x} $$
 $\Delta$ är den grekiska bokstaven "delta" och används ofta inom
 matamatiken för att beteckna en ökning (eller minskning).
 
-a. $ y = -\frac{1}{2} - 1 $
+a. $ y = - \frac{1}{2} - 1 $
 
 b. $ y= 2 x + 2$
 
