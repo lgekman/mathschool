@@ -42,7 +42,8 @@ $$ A = r^2 \cdot \pi $$
 
 ## Bevis
 
-Bevis är något av det viktigaste sm finns inom matematiken - *allt* måste
+[Bevis](https://sv.wikipedia.org/wiki/Matematiskt_bevis)
+är något av det viktigaste sm finns inom matematiken - *allt* måste
 bevisas för att kunna användas. Men man måste ha några grundsatser,
 dessa kallas [axiom](https://sv.wikipedia.org/wiki/Axiom).
 Enl. Wikipedia är axiom "ett självklart påstående vars sanningshalt

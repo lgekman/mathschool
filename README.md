@@ -7,11 +7,11 @@ jordens omkrets på 200-talet f.kr!
 
 Områden;
 
-* [Geometri](geometry/README.md)
+* [Geometri](geometry/README.md) - Omkrets, area, volym, etc.
 
-* [Rationella tal](rational/README.md)
+* [Tal](tal/README.md) - Olika taltyper och räkning med rationella tal
 
-* [Grafer](graphs/README.md)
+* [Grafer](graphs/README.md) - Allmänt och räta linjens ekvation
 
 
 
