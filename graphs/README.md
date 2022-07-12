@@ -15,10 +15,10 @@ som är det vanligaste (men det finns andra). Skärningspunkten mellan
 axlarna kallas *origo*. Man kan lägga till en z-axel för att få ett
 3-dimensionellt koordinatsystem (som i Minecraft). Oftast anger man $y$
 som en *funktion* av $x$, den allmäna formen är då
-$ y = f(x) $. Funktionerna kan vara mycket komplicerade.
+$y = f(x)$. Funktionerna kan vara mycket komplicerade.
 
 Exempel;
-$ y = 1 + x \sin x^2 $
+$y = 1 + x \sin x^2$
 
 <img src="plot1.svg" width="40%" />
 
@@ -97,7 +97,7 @@ a. $y = - \frac{1}{2} - 1$
 
 b. $y = 2 x + 2$
 
-Här syns en viktig egenskap; om produkten $ k_a \cdot k_b = -1$ så är
+Här syns en viktig egenskap; om produkten $k_a \cdot k_b = -1$ så är
 linjerna vinkelräta.
 
 </details>
