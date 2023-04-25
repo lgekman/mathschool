@@ -33,10 +33,10 @@ $$ A = r^2 \cdot \pi $$
 
 <details><summary>(facit)</summary>
 
-* $$ A = \frac{b \cdot h}{2} + \frac{b \cdot h}{2} = b \cdot h $$
+$$ A = \frac{b \cdot h}{2} + \frac{b \cdot h}{2} = b \cdot h $$
 
-* Ta arean av hela cirkeln minus "tårtbiten"
-  $$ A = 2^2 \cdot \pi - 2^2 \cdot \pi \cdot \frac{30}{360} = 4 \pi -  \frac{4 \pi}{12} =  \frac{4 \pi \cdot 11}{12} = \frac{44 \pi}{12} \approx 11.52 \text{ cm}^2 $$
+Ta arean av hela cirkeln minus "tårtbiten"
+$$ A = 2^2 \cdot \pi - 2^2 \cdot \pi \cdot \frac{30}{360} = 4 \pi -  \frac{4 \pi}{12} =  \frac{4 \pi \cdot 11}{12} = \frac{44 \pi}{12} \approx 11.52 \text{ cm}^2 $$
 
 </details>
 
