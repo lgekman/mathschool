@@ -88,7 +88,7 @@ För $k = 0$ blir det en linje parallel med X-axeln.
 
 Man räknar ut $k$ enl.
 
-$$ k = \frac{\Delta y}{\Delta x} $$
+$k = \frac{\Delta y}{\Delta x}$
 
 $\Delta$ är den grekiska bokstaven "delta" och används ofta inom
 matamatiken för att beteckna en ökning (eller minskning).
