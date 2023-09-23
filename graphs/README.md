@@ -84,7 +84,7 @@ $k = 0$ ?
 
 För $k = 0$ blir det en linje parallel med X-axeln.
 
-<img src="lines3.1.svg" width="30%" />
+<img src="lines31.svg" width="30%" />
 
 Man räknar ut $k$ enl.
 
